@@ -1,5 +1,5 @@
 # FVAR-Project
-![image](https://github.com/Srinivas-VJ/FVAR-Project/blob/main/demo.gif)
-UE19CS315 : Fundamentals of Augmented and Virtual Reality opengl project
 
+## UE19CS315 : Fundamentals of Augmented and Virtual Reality opengl project
+![image](https://github.com/Srinivas-VJ/FVAR-Project/blob/main/demo.gif)
 
